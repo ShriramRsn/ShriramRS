@@ -45,11 +45,7 @@ if __name__ == '__main__':
 ## My Statistics
 
 <br/>
-<p align="left">
-  <a href="https://ShriramRsn.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ShriramRS&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShriramRsn&theme=gruvbox&hide_border=true" />
-  </a>
+
 </p>
 <br>
 Last Edited on: 18/06/2023
