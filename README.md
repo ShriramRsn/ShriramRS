@@ -1,19 +1,8 @@
-<h1 align="center">
+<h1 align="">
   <b>Shriram R.S</b>
 </h1>
 
-Hi! I'm Shriram R.S,Currently pursuing B.E"CSE". I'm learning programming through small projects on the side.
-
-<br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</div>
-</p>
+<p>Hi there! I'm Shriram, a Student with a ambition to become a Product based software developer. </p>
 
 ```python
 class ShriramRS():
@@ -31,23 +20,75 @@ if __name__ == '__main__':
     me = ShriramRS()
 ```
 
+<h2>Known language</h2>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>python</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png?20220821155029"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>C</center></b></span> 
+<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>CSS</center></b></span> 
+<img height=65px src="https://cdn.freebiesupply.com/logos/thumbs/2x/css3-logo.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Javascript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<h2>Connect with Me</h2>
 <div align="center">
-  <a href="https://www.hackerrank.com/shriramrs24?hr_r=1">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" width="50px">
-  </a>
-  <a href="https://open.spotify.com/user/31fx4tn3hinvxjwnl3ddg4bijpfq?si=52868854f8ed4d5b">
-    <img src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" width="50px">
-  </a>
-  <a href="https://leetcode.com/shriramrs24/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50px">
-  </a>
+  
   <a href="https://www.linkedin.com/in/shriram-rs-4b188b27b/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="50px">
   </a>
+
+  <a href="shriramrs24@gmail.com">
+    <img src="https://w7.pngwing.com/pngs/608/931/png-transparent-gmail-new-logo-icon.png" width="50px">
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100013731424774">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" width="50px">
+  </a>
+
+  <a href="https://www.instagram.com/sriram_rsn/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1025px-Instagram-Icon.png" width="50px">
+  </a>
+
+  <a href="https://open.spotify.com/user/31fx4tn3hinvxjwnl3ddg4bijpfq?si=52868854f8ed4d5b">
+    <img src="https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM" width="50px">
+
+  <a href="https://twitter.com/ShriramRsn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" width="50px">
+  </a>
+
+  
+  </a>
 </div>
-
-## My Statistics
-
 <br/>
 
 </p>
