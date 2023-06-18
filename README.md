@@ -11,6 +11,7 @@ Hi! I'm Shriram R.S,Currently pursuing B.E"CSE". I'm learning programming throug
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 </p>
 
@@ -39,6 +40,9 @@ if __name__ == '__main__':
   </a>
   <a href="https://leetcode.com/shriramrs24/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="50px">
+  </a>
+  <a href="https://www.linkedin.com/in/shriram-rs-4b188b27b/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="50px">
   </a>
 </div>
 
