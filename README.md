@@ -85,12 +85,12 @@ if __name__ == '__main__':
   <a href="https://twitter.com/ShriramRsn">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" width="50px">
   </a>
+  </div>
 
-  
-  </a>
-</div>
-<br/>
+<h2>Stats:</h2>
 
-</p>
+![graywhite](https://github-readme-stats.vercel.app/api?username=ShriramRsn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=graywhite
+)
+
 <br>
-Last Edited on: 18/06/2023
+Last Edited on: 19/06/2023
