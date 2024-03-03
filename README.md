@@ -55,8 +55,11 @@ if __name__ == '__main__':
 <span><b><center>Javascript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 <td align="center" width="20%">
+</tr>
+<tr>
+<td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/javascript.png](https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png"> 
+<img height=65px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> 
 </td>
 </tr>
 
