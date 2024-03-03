@@ -54,6 +54,9 @@ if __name__ == '__main__':
 <td align="center" width="20%">
 <span><b><center>Javascript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<td align="center" width="20%">
+<span><b><center>Java</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png](https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png"> 
 </td>
 </tr>
 
