@@ -2,7 +2,7 @@
   <b>Shriram R.S</b>
 </h1>
 
-<p>Hi there! I'm Shriram, a Student with a ambition to become a Product based software developer. </p>
+<p>Hi there! I'm Shriram</p>
 
 ```python
 class ShriramRS():
@@ -35,8 +35,8 @@ if __name__ == '__main__':
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C</center></b></span> 
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> 
+<span><b><center>Java</center></b></span> 
+<img height=65px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> 
 </td>
 </tr>
 
@@ -55,12 +55,6 @@ if __name__ == '__main__':
 <span><b><center>Javascript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
 <td align="center" width="20%">
-</tr>
-<tr>
-<td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
-<img height=65px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"> 
-</td>
 </tr>
 
 </tbody>
